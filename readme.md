@@ -20,19 +20,19 @@ Use the Node package manager 'npm' to install the Tradingbot Project
 ## Server Architect
 Server API
 
-<img src= 'Readme_Images/server_architect.png' width= '350' alt = 'server_architect'/>
+<img src= 'Readme_Images/server_architect.png' width= '400' alt = 'server_architect'/>
 
 ## API
 Server API
 
-<img src= 'Readme_Images/API.png' width= '350' alt = 'Server API'/>
+<img src= 'Readme_Images/API.png' width= '400' alt = 'Server API'/>
 
 
 ## GIF Example
-<img src= 'Readme_Images/login.gif' width= '300' alt = 'login'/>
+<img src= 'Readme_Images/login.gif' width= '400' alt = 'login'/>
 
 
-<img src= 'Readme_Images/trading.gif' width= '300' alt = 'trading'/>
+<img src= 'Readme_Images/trading.gif' width= '400' alt = 'trading'/>
 
 ## Authors
 
